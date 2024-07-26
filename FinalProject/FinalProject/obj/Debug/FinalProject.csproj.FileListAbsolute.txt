@@ -1,0 +1,58 @@
+C:\Users\asus\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\asus\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\asus\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.frmAdminDashboard.resources
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.frmuserDashboard.resources
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmUsers.resources
+C:\Users\asus\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmLogin.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\asus\Downloads\New folder (3)\FinalProject (2)\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\New folder (3)\FinalProject (2)\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\asus\Downloads\New folder (3)\FinalProject (2)\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.frmAdminDashboard.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmDeaCust.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmInventory.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmPurchaseAndSales.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmTransaction.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.frmuserDashboard.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmLogin.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmCategories.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmProducts.resources
+C:\Users\Manjitha Kaluarachch\Desktop\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmUsers.resources
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmLogin.resources
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.UI.frmLogin.resources
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Downloads\aa\fffffffffffffffffffff\FinalProject1\FinalProject1\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
